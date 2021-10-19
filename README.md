@@ -3,6 +3,13 @@
 
 Noah Ferrel, Raha Pirzadeh, Michael Kulinich
 
+## Description
+Netflix has been the go-to streaming service for movies
+and TV shows since launching in the 2010s. By having
+a recommendation system tailored to each of their users,
+Netflix’s algorithm picks films and shows based on similarity
+and other users’ votes. For this project, we created a TV Show / Movie genre predictor from the plot description using Natural Language processing.
+
 [Collab link](https://colab.research.google.com/drive/1BhxNB3XMaLHFjusjcmrno9IdRtXNH0KW?usp=sharing)
 
 [Dataset](https://github.com/rahapirzadeh/NetflixGenrePredictor/blob/main/netflix_titles.csv)
